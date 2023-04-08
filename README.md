@@ -4,9 +4,9 @@
 `pip install revChatGPT`
 <br>
 
-#GPT-4を利用する方法
-chatbot.askの部分にmodel="GPT-4"を付け足すと使えます。
-Example:
+# GPT-4を利用する方法
+chatbot.askの部分にmodel="GPT-4"を付け足すと使えます。<br>
+Example:<br>
 ```python
 chatbot.ask(query,None,model="GPT-4")
 ```
