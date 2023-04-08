@@ -4,6 +4,9 @@
 `pip install revChatGPT`
 <br>
 
+# AccessTokenの取り方
+https://chat.openai.com/api/auth/session にChatGPTにログイン済みのブラウザでアクセスするとJsonが返って来ます。accessTokenってのをコピペすればいいです。<br>
+
 # GPT-4を利用する方法
 chatbot.askの部分にmodel="GPT-4"を付け足すと使えます。<br>
 Example:<br>
